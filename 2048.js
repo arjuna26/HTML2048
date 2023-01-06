@@ -33,6 +33,7 @@ function setGame() {
         }
     }
 
+    //set up the game board with two inital 2 tiles for the user to play with
     setTwo();
     setTwo();
 
